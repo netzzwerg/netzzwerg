@@ -11,7 +11,7 @@
 <a href="https://dribbble.com/netzzwerg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="netzzwerg" height="30" width="30" /></a>
 </p>
 
-I have been working as a developer for more than 15 years. During this time, I have used various languages and technologies (Lua, Perl, PHP, C#, Java, ActionScript, JavaScript). I have always been a visual person and try to produce visual results with my work whenever I can. So I quickly came to the decision that the combination of HTML, CSS, and JavaScript is the toolbox of my choice.
+I have been working as a developer for more than 15 years. During this time, I have used various languages and technologies (`Lua`, `Perl`, `PHP`, `C#`, `Java`, `ActionScript`, `JavaScript`). I have always been a visual person and try to produce visual results with my work whenever I can. So I quickly came to the decision that the combination of `HTML`, `CSS`, and `JavaScript` is the toolbox of my choice.
 
 
 I strongly believe in the openness of the Internet and JavaScript which led me to support that cause in my private life as well: I founded **MunichJS – a JavaScript user group**, worked as an editor for **MAG.js – the first German JavaScript magazine** and currently organizing the **JS Kongress – community-driven JavaScript Conference in Munich**
