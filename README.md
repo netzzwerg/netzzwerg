@@ -32,8 +32,8 @@ I strongly believe in the openness of the Internet and JavaScript which led me t
 <h1></h1>
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netzzwerg&layout=compact&hide=html" alt="netzzwerg" width="45%" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=netzzwerg&show_icons=true" alt="netzzwerg" width="45%"  />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=netzzwerg&layout=compact&hide=html?theme=vue" alt="netzzwerg" width="45%" />
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=netzzwerg&show_icons=true?theme=vue" alt="netzzwerg" width="45%"  />
 
 
 
