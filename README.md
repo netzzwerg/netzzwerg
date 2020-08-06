@@ -1,7 +1,8 @@
 <h1 align="center">Servus 👋, I'm Béla Varga</h1>
 <h3 align="center">A passionate frontend developer from Munich, Germany.</h3>
 
-<h1></h1>
+
+
 <p align="center">
 <a href="https://codepen.io/netzzwerg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="netzzwerg" height="30" width="30" /></a>
 <a href="https://dev.to/netzzwerg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="netzzwerg" height="30" width="30" /></a>
@@ -13,6 +14,8 @@
 </p>
 
 <h1></h1>
+
+
 I have been working as a developer for more than 15 years. During this time, I have used various languages and technologies (`Lua`, `Perl`, `PHP`, `C#`, `Java`, `ActionScript`, `JavaScript`). I have always been a visual person and try to produce visual results with my work whenever I can. So I quickly came to the decision that the combination of `HTML`, `CSS`, and `JavaScript` is the toolbox of my choice.
 
 
