@@ -21,7 +21,7 @@ I have been working as a developer for more than 15 years. During this time, I h
 
 I strongly believe in the openness of the Internet and JavaScript which led me to support that cause in my private life as well: I founded **MunichJS – a JavaScript user group**, worked as an editor for **MAG.js – the first German JavaScript magazine** and currently organizing the **JS Kongress – community-driven JavaScript Conference in Munich**
 
-<p align="left"> <a href="https://www.netzzwerg.tv" target="blank"><img src="https://github.com/netzzwerg/netzzwerg/blob/master/netzzwerg.png" alt="netzzwerg" width="200" /> </a></p>
+<p align="right"> <a href="http://www.netzzwerg.tv" target="blank"><img src="https://github.com/netzzwerg/netzzwerg/blob/master/netzzwerg.png" alt="netzzwerg" width="200" /> </a></p>
 
 <h1></h1>
 
